@@ -5,8 +5,6 @@ import dh.backend.model.Odontologo;
 import dh.backend.service.OdontologoService;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
-
-import java.time.LocalDate;
 import java.util.List;
 
 import static org.junit.jupiter.api.Assertions.*;
