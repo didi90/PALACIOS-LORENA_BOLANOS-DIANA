@@ -1,0 +1,10 @@
+[2024-05-21 19:40:15] [ INFO ] [OdontologoIDaoH2:38] Odontólogo persistido: Odontologoid=3, matricula='12345', nombre='Hugo', apellido='Martínez
+[2024-05-21 19:41:55] [ INFO ] [OdontologoIDaoH2:82] El odontólogo devuelto es: Odontologoid=1, matricula='1245', nombre='LORENA', apellido='PALACIOS
+[2024-05-21 19:41:55] [ INFO ] [OdontologoIDaoH2:82] El odontólogo devuelto es: Odontologoid=2, matricula='11440', nombre='DIANA', apellido='BOLANIOS
+[2024-05-21 19:42:06] [ INFO ] [OdontologoIDaoH2:82] El odontólogo devuelto es: Odontologoid=1, matricula='1245', nombre='LORENA', apellido='PALACIOS
+[2024-05-21 19:42:06] [ INFO ] [OdontologoIDaoH2:82] El odontólogo devuelto es: Odontologoid=2, matricula='11440', nombre='DIANA', apellido='BOLANIOS
+[2024-05-21 19:42:06] [ INFO ] [OdontologoIDaoH2:38] Odontólogo persistido: Odontologoid=3, matricula='12345', nombre='Hugo', apellido='Martínez
+[2024-05-21 19:47:28] [ INFO ] [OdontologoEnMemoria:22] Odontólogo guardado: Odontologoid=1, matricula='12345', nombre='Hugo', apellido='Martínez
+[2024-05-21 19:50:18] [ INFO ] [OdontologoEnMemoria:22] Odontólogo guardado: Odontologoid=1, matricula='12345', nombre='Hugo', apellido='Martínez
+[2024-05-21 19:50:18] [ INFO ] [OdontologoEnMemoria:22] Odontólogo guardado: Odontologoid=2, matricula='2234', nombre='Lorena', apellido='Palacios
+[2024-05-21 19:50:18] [ INFO ] [OdontologoEnMemoria:22] Odontólogo guardado: Odontologoid=3, matricula='5645', nombre='Diana', apellido='Bolanios
